@@ -8,5 +8,5 @@ Green
 Yellow
 Red
 These are the colors of rainbow
-Hell the Unicorn
+And the unicorn
 While this is the last code to be included
